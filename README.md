@@ -34,7 +34,7 @@ sudo apt install -y git
 
 ```bash
 git clone <repo>
-cd yadak-proxy
+cd docker-nginx-openai-api-cache
 ```
 
 # update nginx.conf if needed
