@@ -1,6 +1,6 @@
-# Yadak Proxy
+# openai Proxy
 
-Base github project for the Yadak Proxy project is [here](https://github.com/gpt4thewin/docker-nginx-openai-api-cache.git).
+Base github project for the Proxy project is [here](https://github.com/gpt4thewin/docker-nginx-openai-api-cache.git).
 
 ## how to setup:
 
